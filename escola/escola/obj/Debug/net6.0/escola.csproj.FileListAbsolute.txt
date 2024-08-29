@@ -1,0 +1,45 @@
+C:\Users\Alunos\Documents\Atividade 2 - 23-08-2024 Controle de Alunos\escola\escola\obj\Debug\net6.0\escola.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\Atividade 2 - 23-08-2024 Controle de Alunos\escola\escola\obj\Debug\net6.0\escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Atividade 2 - 23-08-2024 Controle de Alunos\escola\escola\obj\Debug\net6.0\escola.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Atividade 2 - 23-08-2024 Controle de Alunos\escola\escola\obj\Debug\net6.0\escola.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Atividade 2 - 23-08-2024 Controle de Alunos\escola\escola\obj\Debug\net6.0\escola.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.AssemblyInfo.cs
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\escola.exe
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\escola.deps.json
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\escola.runtimeconfig.json
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\escola.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\escola.pdb
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alunos\Documents\escola\escola\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.csproj.CopyComplete
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.dll
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\refint\escola.dll
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.pdb
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\escola.genruntimeconfig.cache
+C:\Users\Alunos\Documents\escola\escola\obj\Debug\net6.0\ref\escola.dll
